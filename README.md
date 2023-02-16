@@ -7,8 +7,8 @@ I have written programs in Java, Node.js, C++, C#, Bash, Python and BrainF**k, a
 Favourite Games (Not in Order):
  - The Legend of Zelda: Breath of the Wild
  - Super Smash Brothers Ultimate / Crusade CMC+
- - Assasin's Creed
  - Portal 2
+ - Assasin's Creed
  - Subnautica
  - Ark
  - Apex
