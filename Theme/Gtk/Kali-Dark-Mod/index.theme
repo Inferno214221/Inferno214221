@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Kali-Dark-Mod
+Comment=The Kali Default Theme
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Kali-Dark-Mod
+MetacityTheme=Kali-Dark-Mod
+IconTheme=Papirus
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
