@@ -1,0 +1,1 @@
+/home/inferno214221/.zsh_full/zshrc

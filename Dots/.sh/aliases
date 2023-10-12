@@ -1,0 +1,15 @@
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+####
+alias element='flatpak run im.riot.Riot'
+alias obsidian='flatpak run md.obsidian.Obsidian'
+alias chatgpt='chatgpt -l ~/chatgptlog 2>/dev/null'
+alias bat='echo "$(cat /sys/class/power_supply/BAT1/capacity)%"'
+alias sudo='doas'
