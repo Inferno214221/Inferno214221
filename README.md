@@ -15,3 +15,6 @@ I run a heavily modified Fedora Linux 38 install with XFCE on an Acer Nitro AN51
 [![Snake animation](https://raw.githubusercontent.com/Inferno214221/Inferno214221/output/output/github-snake-dark.svg)](https://youtu.be/dQw4w9WgXcQ)
 
 (That took me an hour to setup)
+
+### Sorry
+My repo naming is all over the place and it really annoys me.
